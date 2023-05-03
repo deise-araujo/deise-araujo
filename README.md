@@ -1,6 +1,6 @@
 ### Olá, eu sou Maria Deisiane
 
-- Estou estudando HTML, CSS, Python, JavaScript
+- Estou estudando Engenharia de Software na @JalaUniversity
 - Pronouns: Ela/Dela
 - Amo tecnologia
 <div align="center">
